@@ -5,7 +5,7 @@ The folders and files are:
 
 1-"Clean_data" contains data about the SAMIs of the three main variables presented in the main manuscript, as well as the SAMIs of the five variables examined in the Supplementary Material. The folder also contains processed data on firearm armed robberies and gun shops along with the aggregated population of the years 2013-2018. The raw data can be found on the original sourses, as described in the manuscript.
 
-2-"Helpers" contains two datasets that we used to aggregate data from zip code resolution to county resolution and from county resolution to MSA/MicroSA resolution
+2-"Helpers" contains two datasets that we used to aggregate data from zip codes and county codes resolution to MSA/MicroSA resolution
 
 3-"Supplement_Causal" has a copy of the results and script of the PC algorithm of the Python package gcastle, modified to perform mutual information as the statistical test of independence.
 
