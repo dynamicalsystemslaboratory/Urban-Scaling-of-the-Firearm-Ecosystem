@@ -12,3 +12,5 @@ The folders and files are:
 4-"Armed_Robberies_Scaling" is a script that provides an example of how we performed the scaling analysis and get the SAMIs
 
 5-"Causal Results" is the script of the main causal analysis with the three variables
+
+6-"SAMIs_Rankings" is the ranking of the MSAs/MicroSAs with respect to the SAMIs of the three main urban features
